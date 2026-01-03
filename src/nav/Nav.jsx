@@ -12,12 +12,12 @@ const Nav = () => {
 
           <div className="lang-menu">
             <h1>English</h1>
-            <h1>Russia</h1>
-            <h1>Uzbek</h1>
+            <h1 style={{ marginTop: "-40px" }}>Russia</h1>
+            <h1 style={{ marginTop: "-40px" }}>Uzbek</h1>
           </div>
         </div>
-        <h1>Search Food</h1>
-        <button></button>
+        <h1 className='search'>Search Food</h1>
+        <button>Login</button>
       </div>
     </div>
   )
