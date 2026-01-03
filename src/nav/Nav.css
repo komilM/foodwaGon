@@ -10,7 +10,6 @@
     height: 78px;
     line-height: 78px;
     gap: 400px;
-    background-color: blueviolet;
 }
 
 
@@ -95,4 +94,12 @@
 
 .nav-menu button:hover {
     transform: scale(1.1);
+}
+
+
+.body img {
+    width: 257px;
+    height: 36px;
+    margin-top: 20px;
+    margin-left: 250px;
 }
