@@ -3,3 +3,43 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.card {
+    width: 306px;
+    height: 415px;
+}
+
+
+.card img {
+    border-radius: 16px;
+    width: 306px;
+    height: 251px;
+}
+
+
+.card p {
+    font-size: 22px;
+    font-weight: 700;
+    color: #424242;
+    margin-top: 32px;
+}
+
+
+.card button {
+    width: 204px;
+    height: 42px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: #F1722833;
+    color: #F17228;
+    margin-top: 14px;
+}
+
+
+.cards {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    padding-top: 80px;
+}
